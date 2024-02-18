@@ -1,0 +1,13 @@
+[theme-mode="light"] {
+  --color-background: #edf7ff;
+}
+
+[theme-mode="dark"] {
+  --color-background: #000;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-background);
+  transition: 0.2s ease-out;
+}
