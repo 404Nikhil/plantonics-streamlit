@@ -1,5 +1,6 @@
 # ⭐Plant-Disease-Detection
 * Plant Disease is necessary for every farmer so we have created Plant disease detection using Deep learning. In which we are using convolutional Neural Network for classifying Leaf images into 28 Different Categories. The Convolutional Neural Code build in Tensorflow Framework using Resnet50 architecture the model is deployed on streamlit which displays fertizers and remedies according to the disease predicted. For Training we are using Plant village dataset. Here is our demo video https://www.youtube.com/watch?v=jDANF0JOCpI&t=1s. Dataset Link is in My Blog Section.
+We are still in progress of developing this project in future we are planning to integrate the quality of soil moisture and improve the prediction part.
 
 ## ⭐huggingface deployment but only indexed for full deployment need streamlit 
 * Here is the link for hugging face deployment : https://huggingface.co/spaces/SurajJha21/plantdiseasemodel2
@@ -42,6 +43,7 @@
 * Each Image have it's disease name so you can verify model is working perfact or not.
 
 ## ⭐Snippet of Web App:
--- loading
+![image](https://github.com/404Nikhil/plantonics-streamlit/assets/117300003/0b6c297f-5ef7-4c5b-9d22-a96774232b36)
+
 ## Explanation video:
  https://www.youtube.com/watch?v=jDANF0JOCpI
