@@ -44,6 +44,8 @@ We are still in progress of developing this project in future we are planning to
 
 ## ⭐Snippet of Web App:
 ![image](https://github.com/404Nikhil/plantonics-streamlit/assets/117300003/0b6c297f-5ef7-4c5b-9d22-a96774232b36)
+![image](https://github.com/404Nikhil/plantonics-streamlit/assets/117300003/444ea55d-30aa-40bc-8dbc-8bcd58209262)
+![image](https://github.com/404Nikhil/plantonics-streamlit/assets/117300003/d0daebd3-4622-429a-97d3-d26d7d387c6a)
 
 ## Explanation video:
  https://www.youtube.com/watch?v=jDANF0JOCpI
