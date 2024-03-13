@@ -43,10 +43,14 @@ We are still in progress of developing this project in future we are planning to
 * Each Image have it's disease name so you can verify model is working perfact or not.
 
 ## ⭐Snippet of Web App:
-![image](https://github.com/404Nikhil/plantonics-streamlit/assets/117300003/0ea4f498-7489-4460-ad3d-526208c91c96)
+
 
 ![image](https://github.com/404Nikhil/plantonics-streamlit/assets/117300003/444ea55d-30aa-40bc-8dbc-8bcd58209262)
 ![image](https://github.com/404Nikhil/plantonics-streamlit/assets/117300003/d0daebd3-4622-429a-97d3-d26d7d387c6a)
+
+# Deployed Model
+
+![image](https://github.com/404Nikhil/plantonics-streamlit/assets/117300003/0ea4f498-7489-4460-ad3d-526208c91c96)
 ![image](https://github.com/404Nikhil/plantonics-streamlit/assets/117300003/b8ff90a1-5d9d-431c-842b-b85400a6e7e4)
 
 ## Explanation video:
