@@ -53,5 +53,7 @@ We are still in progress of developing this project in future we are planning to
 ![image](https://github.com/404Nikhil/plantonics-streamlit/assets/117300003/0ea4f498-7489-4460-ad3d-526208c91c96)
 ![image](https://github.com/404Nikhil/plantonics-streamlit/assets/117300003/b8ff90a1-5d9d-431c-842b-b85400a6e7e4)
 
+https://www.youtube.com/watch?v=jDANF0JOCpI&t=175s
+
 ## Explanation video:
  https://www.youtube.com/watch?v=jDANF0JOCpI
