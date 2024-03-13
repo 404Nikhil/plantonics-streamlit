@@ -47,6 +47,8 @@ We are still in progress of developing this project in future we are planning to
 
 ![image](https://github.com/404Nikhil/plantonics-streamlit/assets/117300003/444ea55d-30aa-40bc-8dbc-8bcd58209262)
 ![image](https://github.com/404Nikhil/plantonics-streamlit/assets/117300003/d0daebd3-4622-429a-97d3-d26d7d387c6a)
+![image](https://github.com/404Nikhil/plantonics-streamlit/assets/117300003/ce670cb0-9cfe-4f22-b884-a8fca2b5f325)
+https://datagen.tech/guides/computer-vision/resnet-50/
 
 # Deployed Model
 
